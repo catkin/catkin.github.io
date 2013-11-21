@@ -10,3 +10,5 @@ Thanks.....
 
 lonley_bird@ymail.com
 ```
+
+The other color we really liked was: `#3F99A3`
