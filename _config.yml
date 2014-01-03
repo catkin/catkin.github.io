@@ -1,0 +1,5 @@
+name: catkin
+
+baseurl: http://catkin.io
+
+markdown: redcarpet
