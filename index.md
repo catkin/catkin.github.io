@@ -3,7 +3,7 @@ layout: default
 title: catkin
 ---
 
-catkin is a [CMake](cmake.org) based build system which emphasizes building many projects together simultaneously, which may be developed in a distributed manner.
+catkin is a [CMake](http://cmake.org) based build system which emphasizes building many projects together simultaneously, which may be developed in a distributed manner.
 catkin was developed to support the [ROS](http://ros.org) ecosystem, which has a federated approach to software development.
 As a result, building ROS requires that you build many (potentially hundreds) of CMake based projects together.
 One of the goals of catkin was to remain as close to standard CMake as possible.
